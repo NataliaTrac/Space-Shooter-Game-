@@ -1,4 +1,4 @@
-#Welcome to the Space Invaderos, an exciting arcade-style game built in Java. Navigate through the cosmos, engage in thrilling battles against alien forces, and strive for the high score in this action-packed adventure.
+# Welcome to the Space Invaderos, an exciting arcade-style game built in Java. Navigate through the cosmos, engage in thrilling battles against alien forces, and strive for the high score in this action-packed adventure.
 
 # Features
 - **Engaging combat mechanics -** Take on hordes of alien enemies, avoiding their attacks while aiming to take them down with your ship's weapons.
